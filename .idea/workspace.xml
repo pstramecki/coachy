@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57d80606-f74a-4ac6-9431-ab36f6120477" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/frankenphp/docker-entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/frankenphp/docker-entrypoint.sh" afterDir="false" />
+    <list default="true" id="57d80606-f74a-4ac6-9431-ab36f6120477" name="Changes" comment="0 [chore] init project">
+      <change afterPath="$PROJECT_DIR$/src/Shared/Application/CommandInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shared/Infrastructure/CommandBusInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shared/Infrastructure/SynchronousCommandBus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +93,24 @@
       <option name="presentableId" value="Default" />
       <updated>1718301568571</updated>
       <workItem from="1718301569668" duration="1786000" />
-      <workItem from="1718348600102" duration="2999000" />
+      <workItem from="1718348600102" duration="3931000" />
     </task>
+    <task id="LOCAL-00001" summary="0 [chore] init project">
+      <option name="closed" value="true" />
+      <created>1718611575651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718611575651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0 [chore] init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="0 [chore] init project" />
   </component>
 </project>
