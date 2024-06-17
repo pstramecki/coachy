@@ -8,6 +8,8 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/php.xml
+.idea/**/vcs.xml
 
 # AWS User-specific
 .idea/**/aws.xml
@@ -171,6 +173,9 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/phpstorm,symfony
 
+
+## Env files
+/.env
 
 ###> symfony/framework-bundle ###
 /.env.local
